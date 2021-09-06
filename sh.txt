@@ -1,0 +1,18 @@
+portfolio is exist
+Create Portfolio -    PF already exists -   portfolio_1222
+
+Create Portfolio -    PF already exists -   portfolio_1222
+Create Portfolio -    PF already exists -   portfolio_3444
+Create Portfolio -    PF already exists -   portfolio_5666
+Create Portfolio -    PF already exists -   portfolio_pqr
+Create Portfolio -    PF already exists -   portfolio_3444
+Create Portfolio -    PF already exists -   portfolio_5666
+Create Portfolio -    PF already exists -   portfolio_pqr
+Create Portfolio -    PF already exists -   portfolio_3444
+Create Portfolio -    PF already exists -   portfolio_5666
+Create Portfolio -    PF already exists -   portfolio_pqr
+Create Portfolio -    PF already exists -   portfolio_3444
+Create Portfolio -    PF already exists -   portfolio_5666
+Create Portfolio -    PF already exists -   portfolio_pqr
+Create Portfolio -    PF already exists -   portfolio_3444
+Create Portfolio -    PF already exists -   portfolio_5666
